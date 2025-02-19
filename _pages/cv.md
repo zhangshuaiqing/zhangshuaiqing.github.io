@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Jekyll, Xi'an technology university, 2026(expected)
-* B.S. in GitHub, Shandong uninversity of Technology, 2023
+* M.S. in Armament Science and Technology, Xi'an technology university, 2026(expected)
+* B.S. in Automation, Shandong uninversity of Technology, 2023
 
 Work experience
 ======
